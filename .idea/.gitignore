@@ -1,0 +1,7 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+### Target except allure-results ###
+!/target/
+/target/**
+!/target/allure-results

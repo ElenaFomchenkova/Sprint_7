@@ -1,0 +1,11 @@
+ru\yandex\praktikum\generator\LoginRequestGenerator.class
+ru\yandex\praktikum\client\OrderListClient.class
+ru\yandex\praktikum\dto\CourierRequest.class
+ru\yandex\praktikum\client\OrderClient.class
+ru\yandex\praktikum\generator\OrderRequestGenerator.class
+ru\yandex\praktikum\client\CourierClient.class
+ru\yandex\praktikum\client\RestClient.class
+ru\yandex\praktikum\dto\LoginRequest.class
+ru\yandex\praktikum\generator\CourierRequestGenerator.class
+ru\yandex\praktikum\config\Config.class
+ru\yandex\praktikum\dto\OrderRequest.class
